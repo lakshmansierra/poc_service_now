@@ -1,0 +1,3 @@
+model_run_id,model_type,model_version,training_timestamp,dataset_size,feature_count,classification_accuracy,regression_r2,regression_mse,regression_rmse
+rf_incident_prediction_20250613_123600,Random Forest,1.0,2025-06-13 12:36:00,111,13,0.9565217391304348,0.7829665982348297,0.19279825659837393,0.4390879827533133
+rf_incident_prediction_20250612_235527,Random Forest,1.0,2025-06-12 23:55:27,111,13,0.9565217391304348,0.7829665982348297,0.19279825659837393,0.4390879827533133
