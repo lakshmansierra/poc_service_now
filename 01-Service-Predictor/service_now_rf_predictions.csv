@@ -1,0 +1,112 @@
+Incident_Number,Asset_Number,Asset_Name,Category,Priority,Location_Clean,Predicted_Risk_Level,Predicted_Risk_Score,Risk_Level_Confidence,Recommendation
+INC0010047,100080,Access Control System,Security,3   Moderate,New York,1,1.8557915603137864,0.8035083189212182,Enhanced monitoring and scheduled maintenance recommended
+INC0010085,100081,HVAC System,Facilities,1   Critical,Dallas,0,3.1362125493367885,0.8349310847151071,Immediate monitoring and proactive maintenance required
+INC0010048,300006,Canon ImageRunner,Hardware,4   Low,Austin,1,1.0056976967592595,0.8561993228177767,Enhanced monitoring and scheduled maintenance recommended
+INC0010032,300007,Cisco IP Phone,Hardware,3   Moderate,Miami,1,1.3263506700102883,0.8764225562967721,Enhanced monitoring and scheduled maintenance recommended
+INC0010058,300008,Cisco Switch,Network,1   Critical,Denver,0,3.054838980709877,0.9026581948137538,Immediate monitoring and proactive maintenance required
+INC0010094,300009,Conference Room A,Infrastructure,3   Moderate,Chicago,1,1.7739262191358043,0.8284156572962351,Enhanced monitoring and scheduled maintenance recommended
+INC0010018,300010,Conference Room A,Software,2   High,Boston,0,2.5458766047453745,0.8070771036661603,Immediate monitoring and proactive maintenance required
+INC0010024,300011,Conference Room C,Hardware,3   Moderate,Chicago,1,1.3653528938400201,0.5052344727888276,Enhanced monitoring and scheduled maintenance recommended
+INC0010088,300012,Conference System,Hardware,3   Moderate,New York,1,1.2291416039737657,0.8812881291847574,Enhanced monitoring and scheduled maintenance recommended
+INC0010069,300013,Dell Latitude 5420,Hardware,3   Moderate,Miami,1,1.423082520576132,0.4826986865703455,Enhanced monitoring and scheduled maintenance recommended
+INC0010043,300014,Dell Latitude 7420,Hardware,4   Low,Boston,1,1.177408688271605,0.8030879479915402,Enhanced monitoring and scheduled maintenance recommended
+INC0010078,300015,Dell P2419H,Software,2   High,Los Angeles,0,2.6371419405221186,0.8881286947653466,Immediate monitoring and proactive maintenance required
+INC0010095,300035,Dell P2419H,Mobile,2   High,Multiple,0,2.712903241962449,0.8977503503270492,Immediate monitoring and proactive maintenance required
+INC0010029,300036,Dell P2419H,Hardware,4   Low,Austin,1,1.1364992150205764,0.9225987223947238,Enhanced monitoring and scheduled maintenance recommended
+INC0010076,300016,Dell XPS 13,Network,3   Moderate,Boston,1,1.7652430117669762,0.8822614522203736,Enhanced monitoring and scheduled maintenance recommended
+INC0010017,300037,Dell XPS 13,Hardware,4   Low,New York,1,1.0787535911779835,0.9360675302160769,Enhanced monitoring and scheduled maintenance recommended
+INC0010090,300017,Dell XPS 15,Hardware,2   High,Austin,0,2.278506659547693,0.7511192853690531,Immediate monitoring and proactive maintenance required
+INC0010033,300018,DESKTOP,Hardware,3   Moderate,Chicago,1,1.6196060686728393,0.520973990395782,Enhanced monitoring and scheduled maintenance recommended
+INC0010094,300019,Epson Projector,Hardware,3   Moderate,Chicago,1,1.5076980500900212,0.8247313922621476,Enhanced monitoring and scheduled maintenance recommended
+INC0010037,300020,Epson Projector,Hardware,3   Moderate,Boston,2,1.5910293785365228,0.6292469354757104,Immediate monitoring and proactive maintenance required
+INC0010073,300021,HP Color LaserJet,Hardware,3   Moderate,Boston,2,1.6046248479295262,0.706916888166441,Immediate monitoring and proactive maintenance required
+INC0010090,300022,HP LaserJet 4200,Software,3   Moderate,Phoenix,1,1.8005423042052457,0.8801570980465085,Enhanced monitoring and scheduled maintenance recommended
+INC0010093,300038,HP LaserJet 4200,Mobile,4   Low,Multiple,1,1.43434561567644,0.8481919828980021,Enhanced monitoring and scheduled maintenance recommended
+INC0010002,300039,HP LaserJet 4200,Hardware,4   Low,Chicago,1,1.2625073900462962,0.8056283806805559,Enhanced monitoring and scheduled maintenance recommended
+INC0010040,300023,iPhone 14,Mobile,3   Moderate,New York,1,1.5035245218345812,0.8320289853319417,Enhanced monitoring and scheduled maintenance recommended
+INC0010062,300024,iPhone 14 Pro,Security,2   High,New York,0,2.6598921662808657,0.8962663329190609,Immediate monitoring and proactive maintenance required
+INC0010057,300025,LAPTOP,Hardware,3   Moderate,Chicago,2,1.6168813769933121,0.6831237136560143,Immediate monitoring and proactive maintenance required
+INC0010060,300026,Meeting Room System,Hardware,4   Low,Boston,1,0.9314729767875516,0.8487262753476876,Enhanced monitoring and scheduled maintenance recommended
+INC0010097,300027,MONITOR,Hardware,4   Low,New York,1,1.3018502229616775,0.6896310286463564,Enhanced monitoring and scheduled maintenance recommended
+INC0010004,300028,MONITOR,Hardware,4   Low,San Francisco,1,1.3852240628215018,0.6933420157042824,Enhanced monitoring and scheduled maintenance recommended
+INC0010012,300029,IPHONE 14,Hardware,3   Moderate,Denver,2,1.6421372833076122,0.6972537581058665,Immediate monitoring and proactive maintenance required
+INC0010099,300030,PRINTER,Hardware,4   Low,Atlanta,1,1.3386625064300415,0.6691666556091198,Enhanced monitoring and scheduled maintenance recommended
+INC0010052,300031,Samsung Display,Hardware,4   Low,New York,1,0.8164103083204736,0.81352471208323,Enhanced monitoring and scheduled maintenance recommended
+INC0010099,300032,SCANNER,Hardware,3   Moderate,Chicago,1,1.2936884998713993,0.8388229532546806,Enhanced monitoring and scheduled maintenance recommended
+INC0010079,300033,SECURITY. CAMERA,Security,2   High,Miami,0,2.515297900591564,0.7651957876243591,Immediate monitoring and proactive maintenance required
+INC0010078,300034,VoIP System,Hardware,3   Moderate,Chicago,1,1.346290203189301,0.8144799363783336,Enhanced monitoring and scheduled maintenance recommended
+INC0010092,600053,Active Directory,Mobile,4   Low,Boston,1,2.080907359439301,0.9283949041522175,Immediate monitoring and proactive maintenance required
+INC0010080,600054,Active Directory,Security,4   Low,Global,1,1.894960944894547,0.8576108086653271,Enhanced monitoring and scheduled maintenance recommended
+INC0010050,600055,Active Directory,Account,2   High,Chicago,0,2.925965352944956,0.7639568080027468,Immediate monitoring and proactive maintenance required
+INC0010025,600056,Active Directory,Security,3   Moderate,Denver,1,2.3207146754758243,0.8259895820082765,Immediate monitoring and proactive maintenance required
+INC0010007,600057,Active Directory,Security,4   Low,Chicago,1,1.9837495890285137,0.7488577661615234,Enhanced monitoring and scheduled maintenance recommended
+INC0010014,600058,Active Directory,Account,3   Moderate,Chicago,1,2.2167665280992797,0.8929857970869182,Immediate monitoring and proactive maintenance required
+INC0010100,600059,Active Directory/APPLICATION,Hardware,4   Low,Dallas,1,1.5849447526041662,0.8764026396700786,Enhanced monitoring and scheduled maintenance recommended
+INC0010083,600060,Active Directory/SOFTWARE,Software,4   Low,Boston,1,1.647823802083333,0.8514238461174531,Enhanced monitoring and scheduled maintenance recommended
+INC0010054,600061,Active Directory/SOFTWARE,Software,3   Moderate,Global,1,2.2042992184284986,0.5579107085317088,Immediate monitoring and proactive maintenance required
+INC0010045,600062,Active Directory/SOFTWARE,Software,4   Low,Denver,1,1.846490749099794,0.9025028931781268,Enhanced monitoring and scheduled maintenance recommended
+INC0010023,600063,Active Directory/SOFTWARE,Software,3   Moderate,Seattle,1,1.9741303433641975,0.9139134175941918,Enhanced monitoring and scheduled maintenance recommended
+INC0010009,600064,Active Directory/SOFTWARE,Software,4   Low,New York,1,1.815938620756173,0.8455557738722237,Enhanced monitoring and scheduled maintenance recommended
+INC0010068,600065,CRM Application,Software,3   Moderate,Global,1,1.6076330137602883,0.786719193267665,Enhanced monitoring and scheduled maintenance recommended
+INC0010035,600066,CRM Application,Software,2   High,Global,0,2.4237375778035,0.898659106832514,Immediate monitoring and proactive maintenance required
+INC0010010,600067,CRM Database,Infrastructure,2   High,Dallas,0,2.6952048218878613,0.8285363907335416,Immediate monitoring and proactive maintenance required
+INC0010100,600068,DNS Server,Network,2   High,Global,0,2.664396407278807,0.9275212770845542,Immediate monitoring and proactive maintenance required
+INC0010065,600069,Domain Controller,Infrastructure,1   Critical,Global,0,3.590619730921153,0.8725408237475679,Immediate monitoring and proactive maintenance required
+INC0010079,600070,Email Server,Infrastructure,3   Moderate,Seattle,1,2.445599043145574,0.8019251899817031,Immediate monitoring and proactive maintenance required
+INC0010089,600071,Email Server,Hardware,3   Moderate,Seattle,1,2.1549130006797457,0.8803455772758482,Immediate monitoring and proactive maintenance required
+INC0010096,600072,Email Server,Network,3   Moderate,San Francisco,1,2.3074025225694417,0.950793936149926,Immediate monitoring and proactive maintenance required
+INC0010053,600073,Email Server,Software,3   Moderate,Boston,1,2.3052842542530114,0.9151646286475694,Immediate monitoring and proactive maintenance required
+INC0010001,600074,Email Server,Software,3   Moderate,New York,1,2.0402648503821283,0.7945557833565445,Immediate monitoring and proactive maintenance required
+INC0010087,600075,Email System,Security,2   High,Chicago,0,2.613928829282407,0.9571093232112327,Immediate monitoring and proactive maintenance required
+INC0010027,600076,ERP Server,Software,1   Critical,Global,0,3.182103926697532,0.8386195034574558,Immediate monitoring and proactive maintenance required
+INC0010084,600077,Exchange Server,Account,3   Moderate,Denver,1,2.43878412037037,0.8275218013951376,Immediate monitoring and proactive maintenance required
+INC0010086,600078,Exchange Server,Account,3   Moderate,Phoenix,1,2.3703500443397263,0.9070609405540105,Immediate monitoring and proactive maintenance required
+INC0010077,600079,Exchange Server,Software,2   High,Global,0,3.267643470743312,0.909954351307186,Immediate monitoring and proactive maintenance required
+INC0010064,600080,Exchange Server,Software,3   Moderate,Global,1,2.304301498107731,0.9263366651319429,Immediate monitoring and proactive maintenance required
+INC0010038,600081,Exchange Server,Software,4   Low,Global,1,2.0534982259516465,0.9433464758342807,Immediate monitoring and proactive maintenance required
+INC0010042,600082,Exchange Server,Software,3   Moderate,Global,1,2.2472377753068056,0.9185625591037312,Immediate monitoring and proactive maintenance required
+INC0010021,600083,Exchange Server,Software,4   Low,Atlanta,1,2.016063615841785,0.7747647050514194,Immediate monitoring and proactive maintenance required
+INC0010011,600084,Exchange Server,Software,3   Moderate,Los Angeles,1,2.399869462770061,0.9177669501551499,Immediate monitoring and proactive maintenance required
+INC0010063,600085,File Server,Infrastructure,4   Low,Austin,1,1.9472253454585537,0.9433351591770947,Enhanced monitoring and scheduled maintenance recommended
+INC0010055,600086,File Server,Security,3   Moderate,San Francisco,1,2.171848686397708,0.9123470697812983,Immediate monitoring and proactive maintenance required
+INC0010041,600087,File Server,Infrastructure,3   Moderate,Chicago,1,2.2852483744855956,0.9114869469526574,Immediate monitoring and proactive maintenance required
+INC0010013,600088,File Server,Infrastructure,2   High,Boston,0,3.234398280799895,0.845967184402544,Immediate monitoring and proactive maintenance required
+INC0010077,600089,Finance App Server,Hardware,4   Low,Phoenix,1,1.7681552366944076,0.5996128863576631,Enhanced monitoring and scheduled maintenance recommended
+INC0010087,600090,Finance App Server,Security,3   Moderate,Multiple,1,2.136458812950103,0.9182843880780254,Immediate monitoring and proactive maintenance required
+INC0010097,600091,Finance App Server,Software,2   High,Remote,0,2.726068361992946,0.8521234311336222,Immediate monitoring and proactive maintenance required
+INC0010003,600092,Finance App Server,Infrastructure,1   Critical,Boston,0,3.953300023469649,0.8084488297633017,Immediate monitoring and proactive maintenance required
+INC0010091,600093,Identity Provider,Infrastructure,3   Moderate,Miami,2,2.65874424035494,0.6279926129732836,Immediate monitoring and proactive maintenance required
+INC0010098,600094,Identity Provider,Security,1   Critical,Global,0,3.9494429529964026,0.8714061623070835,Immediate monitoring and proactive maintenance required
+INC0010059,600095,Identity Provider,Security,2   High,Global,0,3.1570292145704753,0.8557630944852703,Immediate monitoring and proactive maintenance required
+INC0010044,600096,Identity Provider,Security,2   High,Global,0,3.245521122042183,0.9111854208111838,Immediate monitoring and proactive maintenance required
+INC0010030,600097,Identity Provider,Security,2   High,Global,0,2.8789221427469136,0.7201898342722849,Immediate monitoring and proactive maintenance required
+INC0010074,600098,VPN Client,Software,2   High,Global,0,2.670845041152263,0.9461914121286186,Immediate monitoring and proactive maintenance required
+INC0010019,600099,VPN Gateway,Network,3   Moderate,Multiple,1,1.6615424418081284,0.9099201336009777,Enhanced monitoring and scheduled maintenance recommended
+INC0010005,600100,VPN Gateway,Network,2   High,Remote,0,2.846040476466055,0.9205940459966603,Immediate monitoring and proactive maintenance required
+INC0010080,600101,WAN Router,Account,2   High,Multiple,0,2.395738165637859,0.8060842091116548,Immediate monitoring and proactive maintenance required
+INC0010008,600102,WAN Router,Network,2   High,Seattle,0,2.7998912793209927,0.9189638126287356,Immediate monitoring and proactive maintenance required
+INC0010093,600103,Web Server,Security,2   High,Global,0,3.064845788001543,0.8645524347121777,Immediate monitoring and proactive maintenance required
+INC0010051,600104,Web Server,Infrastructure,2   High,Global,0,2.9676880030864154,0.8757246286706483,Immediate monitoring and proactive maintenance required
+INC0010022,600105,Web Server,Infrastructure,2   High,Global,0,3.0145866633873424,0.898128597058442,Immediate monitoring and proactive maintenance required
+INC0010082,600106,Wireless AP,Network,3   Moderate,New York,1,1.7779442621527792,0.8256343530326212,Enhanced monitoring and scheduled maintenance recommended
+INC0010034,600107,Wireless AP,Network,2   High,Seattle,0,2.838957050540128,0.8989816864629244,Immediate monitoring and proactive maintenance required
+INC0010070,600108,Multiple Systems,Security,3   Moderate,Seattle,1,1.5280182438639052,0.8924282674705292,Enhanced monitoring and scheduled maintenance recommended
+INC0010072,600109,Outlook Client,Software,4   Low,New York,1,1.1746979912551434,0.9199815100749505,Enhanced monitoring and scheduled maintenance recommended
+INC0010049,600110,Sales Application,Software,2   High,Global,0,2.455341434027779,0.9494265189738624,Immediate monitoring and proactive maintenance required
+INC0010095,600111,SCCM,Software,3   Moderate,Global,1,1.3596453992504411,0.8682150530961743,Enhanced monitoring and scheduled maintenance recommended
+INC0010084,600112,SharePoint Server,Software,3   Moderate,Global,1,1.4772198906893002,0.8998234869518338,Enhanced monitoring and scheduled maintenance recommended
+INC0010067,600113,SHAREPOINT SERVER,Software,4   Low,Remote,1,1.4858702062114197,0.8591660050400155,Enhanced monitoring and scheduled maintenance recommended
+INC0010015,600114,SharePoint Server,Software,3   Moderate,Miami,1,1.539684747207525,0.9175830719710706,Enhanced monitoring and scheduled maintenance recommended
+INC0010089,600115,SQL Server,Infrastructure,1   Critical,Dallas,0,3.789758520658806,0.8796807596864056,Immediate monitoring and proactive maintenance required
+INC0010039,600116,SQL Server,Infrastructure,1   Critical,Dallas,0,3.6532379268261326,0.884621433647853,Immediate monitoring and proactive maintenance required
+INC0010075,600117,SSRS Server,Infrastructure,2   High,Global,0,2.6447721038910936,0.8817179213113195,Immediate monitoring and proactive maintenance required
+INC0010082,600118,Terminal Server,Account,4   Low,Denver,1,1.649558747175375,0.7183425724554441,Enhanced monitoring and scheduled maintenance recommended
+INC0010085,600119,Terminal Server,Infrastructure,2   High,Phoenix,0,3.245301141203701,0.8536300640400211,Immediate monitoring and proactive maintenance required
+INC0010098,600120,Terminal Server,Security,3   Moderate,Remote,1,2.4593046293540577,0.8340237612180336,Immediate monitoring and proactive maintenance required
+INC0010028,600121,Terminal Server,Infrastructure,3   Moderate,Multiple,1,2.252716942028587,0.8755413809262208,Immediate monitoring and proactive maintenance required
+INC0010081,600122,Windows Workstation,Account,3   Moderate,Austin,1,1.831985044495885,0.8728354625153223,Enhanced monitoring and scheduled maintenance recommended
+INC0010083,600123,Windows Workstation,Network,3   Moderate,Boston,1,2.1738394351208847,0.7330019763814836,Immediate monitoring and proactive maintenance required
+INC0010088,600124,Windows Workstation,Mobile,3   Moderate,Miami,1,1.979672727623456,0.8720319471088817,Enhanced monitoring and scheduled maintenance recommended
+INC0010031,600125,Windows Workstation,Software,3   Moderate,New York,1,1.9293718394510602,0.8601465273399748,Enhanced monitoring and scheduled maintenance recommended
+INC0010020,600126,Workstation PHX054,Security,1   Critical,Phoenix,0,3.015475392232513,0.9442131506906979,Immediate monitoring and proactive maintenance required
+INC0010092,600127,Zoom Room System,Hardware,4   Low,Multiple,1,0.898507807034465,0.877085920012904,Enhanced monitoring and scheduled maintenance recommended
